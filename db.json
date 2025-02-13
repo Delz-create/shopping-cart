@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "img": "img",
+            "title": "title",
+            "des": "lorem ipsom, fake text that is used for test subjects and not an actual text. so don't bother using it for normal projects.",
+            "price": 10000
+        },
+        {
+            "id": 2,
+            "img": "img",
+            "title": "title",
+            "des": "lorem ipsom,just like i said fake text that is used for test subjects and not an actual text. so don't bother using it for normal projects.",
+            "price": 15000
+        },
+        {
+            "id": 3,
+            "img": "img",
+            "title": "title",
+            "des": "lorem ipsom,and again it's just a fake ass text that is used for test subjects and not an actual text. so don't bother using it for normal projects.",
+            "price": 20000
+        },
+        {
+            "id": 4,
+            "img": "img",
+            "title": "title",
+            "des": "lorem ipsom, and again and again fake text that is used for test subjects and not an actual text. so don't bother using it for normal projects.",
+            "price": 100000
+        },
+        {
+            "id": 5,
+            "img": "img",
+            "title": "title",
+            "des": "lorem ipsom,agin it's fake text that is used for test subjects and not an actual text. so don't bother using it for normal projects.",
+            "price": 150000
+        },
+        {
+            "id": 6,
+            "img": "img",
+            "title": "title",
+            "des": "lorem ipsom, last time it's a fake text that is used for test subjects and not an actual text. so don't bother using it for normal projects.",
+            "price": 7000
+        }
+    ]
+  }
